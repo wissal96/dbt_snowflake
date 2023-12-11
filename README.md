@@ -43,3 +43,4 @@ The Astro CLI Installed. We will be using the Astro CLI to create our Airflow en
 What You'll Build
 A simple working Airflow pipeline with dbt and Snowflake
 A slightly more complex Airflow pipeline that incorporates Snowpark to analyze your data with Python# dbt_snowflake
+# dbt_snowflake
