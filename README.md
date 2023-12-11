@@ -1,6 +1,6 @@
 
 ## System Architecture
-![system_architecture.png](assets%2Farchitecture.png)
+![Architecture.png](assets%2Farchitecture.png)
 Numerous business are looking at modern data strategy built on platforms that could support agility, growth and operational efficiency. Snowflake is Data Cloud, a future proof solution that can simplify data pipelines for all your businesses so you can focus on your data and analytics instead of infrastructure management and maintenance.
 
 Apache Airflow is an open-source workflow management platform that can be used to author and manage data pipelines. Airflow uses workflows made of directed acyclic graphs (DAGs) of tasks. The Astro CLI is a command line interface for Airflow developed by Astronomer. It's the easiest way to get started with running Apache Airflow locally
@@ -43,6 +43,7 @@ The Astro CLI Installed. We will be using the Astro CLI to create our Airflow en
 What You'll Build
 A simple working Airflow pipeline with dbt and Snowflake
 A slightly more complex Airflow pipeline that incorporates Snowpark to analyze your data with Python# dbt_snowflake
+# dbt_snowflake
 # dbt_snowflake
 # dbt_snowflake
 # dbt_snowflake
